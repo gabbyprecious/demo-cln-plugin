@@ -1,9 +1,9 @@
 CC=go
 FMT=gofmt
-NAME=cln4go-plugin
+NAME=demo-cln-plugin
 BASE_DIR=/script
-OS=linux
-ARCH=386
+OS=darwin
+ARCH=amd64
 ARM=
 
 default: fmt lint

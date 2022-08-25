@@ -1,4 +1,4 @@
-module github.com/cln-reckless/cln4go.plugin
+module github.com/gabbyprecious/demo-cln-plugin
 
 go 1.18
 
