@@ -13,7 +13,7 @@ bitcoin-rpcpassword=sandbox
 bitcoin-rpcport=18333
 log-level=debug
 
-plugin=/workdir/code/cln4go-plugin-linux-386
+plugin=/workdir/code/demo-linux-386
 #plugin=/workdir/code/packages/cln_plugin/cln_class_dart
 
 log-file=/workdir/node_one.log
